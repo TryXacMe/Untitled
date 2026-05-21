@@ -1,4 +1,4 @@
-.adventure {
+.next {
   &__container {
     display: flex;
     align-items: start;
@@ -37,15 +37,15 @@
   }
 
   &__box1 {
-    background-image: url(../assents/man1.png);
+    background-image: url(../assents/snow.png);
   }
 
   &__box2 {
-    background-image: url(../assents/man2.png);
+    background-image: url(../assents/mount.png);
   }
 
   &__box3 {
-    background-image: url(../assents/man3.png);
+    background-image: url(../assents/Hiking.png);
   }
 
   &__text {

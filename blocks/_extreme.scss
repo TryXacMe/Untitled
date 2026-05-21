@@ -1,6 +1,15 @@
-.faster {
+.extreme {
+  &__container {
+    background-image: url(../assents/icealpenist.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    width: 1200px;
+    height: 800px;
+  }
+
   &__title {
-    margin-top: 448px;
+    margin-top: 48px;
+    padding-top: 490px;
     margin-bottom: 41px;
     padding-left: 20px;
     font-family: "Roboto";
@@ -22,7 +31,7 @@
     line-height: 19px;
     letter-spacing: 0.72px;
     color: #ffffff;
-    width: 330px;
+    width: 437px;
   }
 
   &__btn {

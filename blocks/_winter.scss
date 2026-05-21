@@ -1,0 +1,45 @@
+.winter {
+  &__container {
+    margin-top: 101px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+
+  &__right {
+    background-image: url(../assents/Men.png);
+    width: 558px;
+    height: 419px;
+  }
+
+  &__left {
+    background-image: url(../assents/Woman.png);
+    width: 558px;
+    height: 419px;
+  }
+
+  &__title {
+    padding-top: 48px;
+    padding-left: 38px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 38px;
+    letter-spacing: 1.92px;
+    color: #ffffff;
+  }
+
+  &__text {
+    padding-top: 28px;
+    padding-left: 58px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 21px;
+    letter-spacing: 0.84px;
+    color: #ffffff;
+  }
+}
