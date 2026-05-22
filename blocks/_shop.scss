@@ -1,0 +1,56 @@
+.shop {
+  &__hr {
+    margin-left: 1030px;
+    width: 170px;
+    background: #cdcdcd;
+  }
+
+  &__menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  &__title {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    letter-spacing: 1.92px;
+    color: #191919;
+  }
+
+  &__link {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 21px;
+    letter-spacing: 0.84px;
+    color: #191919;
+  }
+
+  &__boxs {
+    margin-top: 29px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 21px;
+  }
+
+  &__box {
+    width: 261px;
+    height: 281px;
+  }
+
+  &__text {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 16px;
+    letter-spacing: 0.864px;
+    color: #191919;
+  }
+}
