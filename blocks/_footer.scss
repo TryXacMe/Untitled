@@ -1,0 +1,138 @@
+.footer {
+  &__container {
+    margin-top: 144px;
+    background-color: #23293c;
+  }
+
+  &__logo {
+    padding-left: 40px;
+  }
+
+  &__top {
+    padding-top: 60px;
+    display: flex;
+    gap: 100px;
+  }
+
+  &__boxs {
+    display: flex;
+    gap: 246px;
+  }
+
+  &__starter {
+    margin-bottom: 32px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    letter-spacing: 0.864px;
+    color: #ffffff;
+  }
+
+  &__item {
+    margin-bottom: 15px;
+  }
+
+  &__link {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 16px;
+    letter-spacing: 0.864px;
+    color: #cdcdcd;
+  }
+
+  &__hr {
+    margin-top: 55px;
+    margin-bottom: 65px;
+    margin-left: 45px;
+    width: 1120px;
+    height: 1px;
+    background: rgba(204, 204, 204, 0.2);
+  }
+
+  &__boxs2 {
+    display: flex;
+    justify-content: center;
+    gap: 89px;
+  }
+
+  &__box2 {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+  }
+
+  &__img2 {
+    width: 56px;
+    height: 56px;
+  }
+
+  &__start {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 19px;
+    letter-spacing: 0.72px;
+    color: #ffffff;
+  }
+
+  &__text {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 16px;
+    letter-spacing: 0.6px;
+    color: #cdcdcd;
+  }
+
+  &__bottom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 393px;
+  }
+
+  &__left {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 18px;
+  }
+
+  &__box3 {
+    display: flex;
+    gap: 16px;
+  }
+
+  &__btn {
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    text-align: center;
+    background: none;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 21px;
+    letter-spacing: 0.84px;
+    color: #ffffff;
+    background-color: #767676;
+  }
+
+  &__right {
+    margin-bottom: 30px;
+  }
+
+  &__pinterest {
+    width: 20px;
+    height: 20px;
+  }
+}

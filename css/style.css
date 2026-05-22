@@ -366,9 +366,6 @@ a {
   color: #ffffff;
 }
 
-.more__container {
-  margin-left: 104px;
-}
 .more__title {
   margin-top: 147px;
   margin-bottom: 28px;
@@ -490,4 +487,123 @@ a {
   text-align: center;
   letter-spacing: 0.864px;
   color: #ffffff;
+}
+
+.footer__container {
+  margin-top: 144px;
+  background-color: #23293c;
+}
+.footer__logo {
+  padding-left: 40px;
+}
+.footer__top {
+  padding-top: 60px;
+  display: flex;
+  gap: 100px;
+}
+.footer__boxs {
+  display: flex;
+  gap: 246px;
+}
+.footer__starter {
+  margin-bottom: 32px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 16px;
+  letter-spacing: 0.864px;
+  color: #ffffff;
+}
+.footer__item {
+  margin-bottom: 15px;
+}
+.footer__link {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 16px;
+  letter-spacing: 0.864px;
+  color: #cdcdcd;
+}
+.footer__hr {
+  margin-top: 55px;
+  margin-bottom: 65px;
+  margin-left: 45px;
+  width: 1120px;
+  height: 1px;
+  background: rgba(204, 204, 204, 0.2);
+}
+.footer__boxs2 {
+  display: flex;
+  justify-content: center;
+  gap: 89px;
+}
+.footer__box2 {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
+.footer__img2 {
+  width: 56px;
+  height: 56px;
+}
+.footer__start {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 19px;
+  letter-spacing: 0.72px;
+  color: #ffffff;
+}
+.footer__text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 16px;
+  letter-spacing: 0.6px;
+  color: #cdcdcd;
+}
+.footer__bottom {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 393px;
+}
+.footer__left {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 18px;
+}
+.footer__box3 {
+  display: flex;
+  gap: 16px;
+}
+.footer__btn {
+  margin-bottom: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  text-align: center;
+  background: none;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 21px;
+  letter-spacing: 0.84px;
+  color: #ffffff;
+  background-color: #767676;
+}
+.footer__right {
+  margin-bottom: 30px;
+}
+.footer__pinterest {
+  width: 20px;
+  height: 20px;
 }/*# sourceMappingURL=style.css.map */
